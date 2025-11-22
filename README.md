@@ -28,7 +28,7 @@ Vite
 
 ⚙️ Installation
 1️⃣ Clone project
-git clone https://github.com/USERNAME/vue-dashboard.git
+git clone https://github.com/mugamaldev/vue-dashboard
 cd vue-dashboard
 
 2️⃣ Install dependencies
